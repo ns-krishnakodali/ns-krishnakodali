@@ -5,19 +5,14 @@
 ## 🚀 About Me
 
 - 💼 I have **3.5 years of experience** as a Software Engineer.
+
 - 🔭 I’m currently a graduate student at **University of Florida**.
+
 - 🌱 I’m currently learning **Applied Machine Learning, Optimization, and Natural Language Processing (NLP)**.
+
 - 👨‍💻 All of my projects are available at my [repositories](https://github.com/ns-krishnakodali?tab=repositories).
+
 - 💬 Ask me about **Java**, **Python**, **Javascript**, **Go**.
-
-## 🔧 Key Technologies & Tools
-
-- **Programming Languages**: Java, JavaScript/TypeScript, Python, Golang, C/C++
-- **Frontend**: ReactJS, Next.js, Angular, jQuery, HTML, CSS
-- **Backend**: Spring, FastAPI, Gin, Flask, Express
-- **DevOps**: Docker, Kubernetes, Terraform, Jenkins
-- **Databases**: SQL, NoSQL, Redis
-- **Scripting & Other Tools**: Bash, MATLAB
 
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ns-krishnakodai" alt="krishnakodali" /> </p>
