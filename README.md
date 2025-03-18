@@ -7,7 +7,6 @@
 - 💼 I have **3.5 years of experience** as a Software Engineer.
 - 🔭 I’m currently a graduate student at **University of Florida**.
 - 🌱 I’m currently learning **Applied Machine Learning, Optimization, and Natural Language Processing (NLP)**.
-- 👯 I’m looking to collaborate on **open-source projects**, **web development**, and **machine learning applications**.
 - 👨‍💻 All of my projects are available at my [repositories](https://github.com/ns-krishnakodali?tab=repositories).
 - 💬 Ask me about **Java**, **Python**, **Javascript**, **Go**.
 
