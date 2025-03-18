@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Krishna Kodali 👋</h1>
 
-<!--
-**ns-krishnakodali/ns-krishnakodali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> A passionate Software Engineer and ML/AI enthusiast with experience in building sofwtare applications and a strong focus on Applied Machine Learning.</h3>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 I have **3.5 years of experience** as a Software Engineer.
+- 🔭 I’m currently a graduate student at **University of Florida**.
+- 🌱 I’m currently learning **Applied Machine Learning, Optimization, and Natural Language Processing (NLP)**.
+- 👯 I’m looking to collaborate on **open-source projects**, **web development**, and **machine learning applications**.
+- 👨‍💻 All of my projects are available at my [repositories](https://github.com/ns-krishnakodali?tab=repositories).
+- 💬 Ask me about **Java**, **Python**, **Javascript**, **Go**.
+
+## 🔧 Key Technologies & Tools
+
+- **Programming Languages**: Java, JavaScript/TypeScript, Python, Golang, C/C++
+- **Frontend**: ReactJS, Next.js, Angular, jQuery, HTML, CSS
+- **Backend**: Spring, FastAPI, Gin, Flask, Express
+- **DevOps**: Docker, Kubernetes, Terraform, Jenkins
+- **Databases**: SQL, NoSQL, Redis
+- **Scripting & Other Tools**: Bash, MATLAB
+
+<br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ns-krishnakodai" alt="krishnakodali" /> </p>
