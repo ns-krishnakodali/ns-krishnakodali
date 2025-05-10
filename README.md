@@ -10,9 +10,9 @@
 
 - 💻 All my projects are available in my GitHub [**repositories**](https://github.com/ns-krishnakodali?tab=repositories).
 
-- 🛠️ Ask me about **Java**, **Python**, **Javascript**, **Go**.
+- 🌐 Visit my website: [**nskrishnakodali.com**](https://www.nskrishnakodali.com)
 
-- 🌐 Visit my website: [**ns-krishnakodali.com**](https://www.nskrishnakodali.com)
+- 🛠️ Ask me about **Java**, **Python**, **Javascript**, **Go**.
 
 - ✉️ Feel free to reach out to me at **nskrishnakodali@gmail.com**.
 
