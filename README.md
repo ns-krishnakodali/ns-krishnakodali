@@ -12,6 +12,8 @@
 
 - 🌐 Visit my website: [**nskrishnakodali.com**](https://www.nskrishnakodali.com)
 
+- 💬 Chat with [**Veritas**](https://veritas.nskrishnakodali.com) — a RAG-based assistant I built to answer questions about me.
+
 - 🛠️ Ask me about **Java**, **Python**, **Javascript**, **Go**.
 
 - ✉️ Feel free to reach out to me at **nskrishnakodali@gmail.com**.
