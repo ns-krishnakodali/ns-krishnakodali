@@ -1,22 +1,31 @@
-<h1 align="center">Hi, I'm Krishna Kodali</h1>
+<div align="center">
 
-<h3 align="center">A Software Engineer with experience in building scalable and reliable systems, and an AI/ML enthusiast with a focus on Applied Machine Learning.</h3>
+# Krishna Kodali
 
-## About Me
+### Software Engineer • AI Engineer
 
-- 🎓 I’m currently a **Computer Science** graduate student at the **University of Florida**, specializing in **Machine Learning**.
+---
 
-- 📖 I’m actively exploring about **Machine Learning, Optimization, and Financial Technologies**.
+</div>
 
-- 💻 All my projects are available in my GitHub [**repositories**](https://github.com/ns-krishnakodali?tab=repositories).
+## // focus
 
-- 🌐 Visit my website: [**nskrishnakodali.com**](https://www.nskrishnakodali.com)
+I spend most of my time coding, building systems, and agentic workflows. What I work on shifts with whatever problem has my attention, though personal finance is a recurring one.
 
-- 💬 Chat with [**Veritas**](https://veritas.nskrishnakodali.com) — a RAG-based assistant I built to answer questions about me.
+## // stack
 
-- 🛠️ Ask me about **Java**, **Python**, **Javascript**, **Go**.
+Mostly **Java**, **C/C++**, and **Go** for systems work. **Python** for ML and scripting. **JavaScript** when the web shows up.
 
-- ✉️ Feel free to reach out to me at **nskrishnakodali@gmail.com**.
+## // presence
 
-<br/>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ns-krishnakodai" alt="krishnakodali" /></p>
+<table border="1">
+  <tr><td><b>Website</b></td><td><a href="https://www.nskrishnakodali.com">nskrishnakodali.com</a></td></tr>
+  <tr><td><b>Assistant</b></td><td><a href="https://veritas.nskrishnakodali.com">veritas.nskrishnakodali.com</a></td></tr>
+  <tr><td><b>Repos</b></td><td><a href="https://github.com/ns-krishnakodali?tab=repositories">github.com/ns-krishnakodali</a></td></tr>
+  <tr><td><b>Email</b></td><td><a href="mailto:nskrishnakodali@gmail.com">nskrishnakodali@gmail.com</a></td></tr>
+</table>
+
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=ns-krishnakodali&style=flat-square" alt="profile views" />
+</div>
